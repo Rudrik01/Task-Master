@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'todo-app-by-RudrikPatel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4DF450490014C47B65D12AEFE0202CF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CE86BA80AD74E71AEA39C13B7633265 }}
